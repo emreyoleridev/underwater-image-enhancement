@@ -14,7 +14,7 @@ CLAHE, white balance and histogram equalization on the public **UIEB** dataset, 
 | **Pipeline (WB + CLAHE)** | **19.72** | **0.834** | 0.328 | **2.954** |
 
 🌊 **Live demo:** _coming soon_  
-📄 **Full report:** [REPORT.pdf](REPORT.pdf) ([Markdown version](REPORT.md))
+📄 **Report:** [REPORT.pdf](REPORT.pdf)
 
 ## Quick start
 
@@ -45,7 +45,8 @@ scripts/download_uieb.py reproducible UIEB subset download
 scripts/evaluate.py      batch evaluation, CSVs, Matplotlib figures
 app.py                   Streamlit web app
 results/                 summary.csv, per_image_metrics.csv, win_rate_vs_raw.csv, figures/
-REPORT.md / REPORT.pdf  project report (scripts/build_report_pdf.py renders the PDF)
+scripts/experiments.py   ablation, sensitivity, Wilcoxon tests, report figures
+report/report.typ        report source (Typst); scripts/build_report_pdf.py -> REPORT.pdf
 Dockerfile               container image (any Docker host / HF Docker Space)
 ```
 

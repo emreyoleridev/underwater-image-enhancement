@@ -1,0 +1,212 @@
+li2020uieb:
+  type: article
+  title: An Underwater Image Enhancement Benchmark Dataset and Beyond
+  author: ["Li, Chongyi", "Guo, Chunle", "Ren, Wenqi", "Cong, Runmin", "Hou, Junhui", "Kwong, Sam", "Tao, Dacheng"]
+  date: 2020
+  page-range: 4376-4389
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 29}
+  serial-number: {doi: 10.1109/TIP.2019.2955241}
+
+ancuti2018:
+  type: article
+  title: Color Balance and Fusion for Underwater Image Enhancement
+  author: ["Ancuti, Codruta O.", "Ancuti, Cosmin", "De Vleeschouwer, Christophe", "Bekaert, Philippe"]
+  date: 2018
+  page-range: 379-393
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 27, issue: 1}
+  serial-number: {doi: 10.1109/TIP.2017.2759252}
+
+ancuti2012:
+  type: article
+  title: Enhancing Underwater Images and Videos by Fusion
+  author: ["Ancuti, Cosmin", "Ancuti, Codruta O.", "Haber, Tom", "Bekaert, Philippe"]
+  date: 2012
+  page-range: 81-88
+  parent: {type: proceedings, title: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+
+zuiderveld1994:
+  type: chapter
+  title: Contrast Limited Adaptive Histogram Equalization
+  author: Zuiderveld, Karel
+  date: 1994
+  page-range: 474-485
+  parent:
+    type: book
+    title: Graphics Gems IV
+    editor: Heckbert, Paul S.
+    publisher: Academic Press
+
+pizer1987:
+  type: article
+  title: Adaptive Histogram Equalization and Its Variations
+  author: ["Pizer, Stephen M.", "Amburn, E. Philip", "Austin, John D.", "Cromartie, Robert", "Geselowitz, Ari", "Greer, Trey", "ter Haar Romeny, Bart", "Zimmerman, John B.", "Zuiderveld, Karel"]
+  date: 1987
+  page-range: 355-368
+  parent: {type: periodical, title: "Computer Vision, Graphics, and Image Processing", volume: 39, issue: 3}
+
+hummel1977:
+  type: article
+  title: Image Enhancement by Histogram Transformation
+  author: Hummel, Robert
+  date: 1977
+  page-range: 184-195
+  parent: {type: periodical, title: Computer Graphics and Image Processing, volume: 6, issue: 2}
+
+buchsbaum1980:
+  type: article
+  title: A Spatial Processor Model for Object Colour Perception
+  author: Buchsbaum, Gershon
+  date: 1980
+  page-range: 1-26
+  parent: {type: periodical, title: Journal of the Franklin Institute, volume: 310, issue: 1}
+
+yang2015uciqe:
+  type: article
+  title: An Underwater Color Image Quality Evaluation Metric
+  author: ["Yang, Miao", "Sowmya, Arcot"]
+  date: 2015
+  page-range: 6062-6071
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 24, issue: 12}
+
+panetta2016uiqm:
+  type: article
+  title: Human-Visual-System-Inspired Underwater Image Quality Measures
+  author: ["Panetta, Karen", "Gao, Chen", "Agaian, Sos"]
+  date: 2016
+  page-range: 541-551
+  parent: {type: periodical, title: IEEE Journal of Oceanic Engineering, volume: 41, issue: 3}
+
+wang2004ssim:
+  type: article
+  title: "Image Quality Assessment: From Error Visibility to Structural Similarity"
+  author: ["Wang, Zhou", "Bovik, Alan C.", "Sheikh, Hamid R.", "Simoncelli, Eero P."]
+  date: 2004
+  page-range: 600-612
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 13, issue: 4}
+
+huynh2008psnr:
+  type: article
+  title: Scope of Validity of PSNR in Image/Video Quality Assessment
+  author: ["Huynh-Thu, Quan", "Ghanbari, Mohammed"]
+  date: 2008
+  page-range: 800-801
+  parent: {type: periodical, title: Electronics Letters, volume: 44, issue: 13}
+
+he2011dcp:
+  type: article
+  title: Single Image Haze Removal Using Dark Channel Prior
+  author: ["He, Kaiming", "Sun, Jian", "Tang, Xiaoou"]
+  date: 2011
+  page-range: 2341-2353
+  parent: {type: periodical, title: IEEE Transactions on Pattern Analysis and Machine Intelligence, volume: 33, issue: 12}
+
+drews2013udcp:
+  type: article
+  title: Transmission Estimation in Underwater Single Images
+  author: ["Drews Jr., Paulo", "do Nascimento, Erickson", "Moraes, Filipe", "Botelho, Silvia", "Campos, Mario"]
+  date: 2013
+  page-range: 825-830
+  parent: {type: proceedings, title: Proceedings of the IEEE International Conference on Computer Vision Workshops (ICCVW)}
+
+akkaynak2018:
+  type: article
+  title: A Revised Underwater Image Formation Model
+  author: ["Akkaynak, Derya", "Treibitz, Tali"]
+  date: 2018
+  page-range: 6723-6732
+  parent: {type: proceedings, title: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+
+akkaynak2019seathru:
+  type: article
+  title: "Sea-Thru: A Method for Removing Water from Underwater Images"
+  author: ["Akkaynak, Derya", "Treibitz, Tali"]
+  date: 2019
+  page-range: 1682-1691
+  parent: {type: proceedings, title: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}
+
+jaffe1990:
+  type: article
+  title: Computer Modeling and the Design of Optimal Underwater Imaging Systems
+  author: Jaffe, Jules S.
+  date: 1990
+  page-range: 101-111
+  parent: {type: periodical, title: IEEE Journal of Oceanic Engineering, volume: 15, issue: 2}
+
+mcglamery1980:
+  type: article
+  title: A Computer Model for Underwater Camera Systems
+  author: McGlamery, B. L.
+  date: 1980
+  page-range: 221-231
+  parent: {type: proceedings, title: "Ocean Optics VI, Proceedings of SPIE", volume: 208}
+
+islam2020funie:
+  type: article
+  title: Fast Underwater Image Enhancement for Improved Visual Perception
+  author: ["Islam, Md Jahidul", "Xia, Youya", "Sattar, Junaed"]
+  date: 2020
+  page-range: 3227-3234
+  parent: {type: periodical, title: IEEE Robotics and Automation Letters, volume: 5, issue: 2}
+
+peng2023ushape:
+  type: article
+  title: U-Shape Transformer for Underwater Image Enhancement
+  author: ["Peng, Lintao", "Zhu, Chunli", "Bian, Liheng"]
+  date: 2023
+  page-range: 3066-3079
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 32}
+
+iqbal2010:
+  type: article
+  title: Enhancing the Low Quality Images Using Unsupervised Colour Correction Method
+  author: ["Iqbal, Kashif", "Odetayo, Michael", "James, Anne", "Salam, Rosalina Abdul", "Talib, Abdullah Zawawi Hj"]
+  date: 2010
+  page-range: 1703-1709
+  parent: {type: proceedings, title: "Proceedings of the IEEE International Conference on Systems, Man and Cybernetics (SMC)"}
+
+anwar2020survey:
+  type: article
+  title: "Diving Deeper into Underwater Image Enhancement: A Survey"
+  author: ["Anwar, Saeed", "Li, Chongyi"]
+  date: 2020
+  page-range: 115978
+  parent: {type: periodical, title: "Signal Processing: Image Communication", volume: 89}
+
+gonzalez2018:
+  type: book
+  title: Digital Image Processing
+  author: ["Gonzalez, Rafael C.", "Woods, Richard E."]
+  edition: 4
+  date: 2018
+  publisher: Pearson
+
+bradski2000opencv:
+  type: article
+  title: The OpenCV Library
+  author: Bradski, Gary
+  date: 2000
+  parent: {type: periodical, title: "Dr. Dobb's Journal of Software Tools"}
+
+vanderwalt2014skimage:
+  type: article
+  title: "scikit-image: Image Processing in Python"
+  author: ["van der Walt, Stéfan", "Schönberger, Johannes L.", "Nunez-Iglesias, Juan", "Boulogne, François", "Warner, Joshua D.", "Yager, Neil", "Gouillart, Emmanuelle", "Yu, Tony"]
+  date: 2014
+  page-range: e453
+  parent: {type: periodical, title: PeerJ, volume: 2}
+
+hunter2007matplotlib:
+  type: article
+  title: "Matplotlib: A 2D Graphics Environment"
+  author: Hunter, John D.
+  date: 2007
+  page-range: 90-95
+  parent: {type: periodical, title: Computing in Science & Engineering, volume: 9, issue: 3}
+
+wilcoxon1945:
+  type: article
+  title: Individual Comparisons by Ranking Methods
+  author: Wilcoxon, Frank
+  date: 1945
+  page-range: 80-83
+  parent: {type: periodical, title: Biometrics Bulletin, volume: 1, issue: 6}

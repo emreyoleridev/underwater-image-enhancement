@@ -5,3 +5,5 @@ matplotlib>=3.8
 pandas>=2.1
 tabulate>=0.9
 streamlit>=1.40
+scipy>=1.11
+typst>=0.13

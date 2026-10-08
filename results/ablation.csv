@@ -1,0 +1,6 @@
+config,PSNR,SSIM,UCIQE,UIQM
+Full pipeline,19.7203,0.8335,0.328,2.9543
+w/o red compensation,19.1807,0.8011,0.3337,2.9254
+w/o white balance,20.0696,0.8372,0.3278,2.9413
+w/o contrast stretch,18.0862,0.8463,0.2607,2.8804
+w/o CLAHE,22.1209,0.8941,0.331,2.5577
