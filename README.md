@@ -13,7 +13,7 @@ CLAHE, white balance and histogram equalization on the public **UIEB** dataset, 
 | Underwater WB | 17.87 | 0.801 | 0.228 | 2.443 |
 | **Pipeline (WB + CLAHE)** | **19.72** | **0.834** | 0.328 | **2.954** |
 
-🌊 **Live demo:** _coming soon_  
+🌊 **Live demo:** [https://emreyoleridev-underwater-image-enhancement-app-youmjy.streamlit.app/](https://emreyoleridev-underwater-image-enhancement-app-youmjy.streamlit.app/)  
 📄 **Report:** [REPORT.pdf](REPORT.pdf)
 
 ## Quick start
